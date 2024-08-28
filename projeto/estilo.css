@@ -1,0 +1,103 @@
+a, h1, h2, h3{
+    font-family: tohama;
+}
+.um, .banner, .Sobre, .servicos, .corretores, .contato {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.um a{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+}
+
+.servicos p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.Sobre p{
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+}
+.Sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.Sobre h2{
+    color: #1c81c0;
+    margin-top: 0%;
+    font-weight: normal;
+
+}
+.Sobre img{
+    width: 450px;
+}
+
+
+.um{
+    background-color: #afddfb;
+}
+
+.banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+.servicos{
+    background-color: #1d80c1;
+}
+.servicos h2{
+    color: #ffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.servicos ul{
+    width: 135px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 42px;
+    color: #ffff;
+    font-size: 22px;
+
+}
+.contato iframe{
+    background-color: #1d80c1;
+
+}
+.contato p{
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.contato strong{
+    color: yellow;
+}
+.contato li{
+    list-style: none;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    width: 210px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    background-color: white;
+    color: #1d80c1;
+    border-radius: 5px;
+    padding:2px, 5px, 2px, 5px
+    
+}
+.contato{
+    background-color: #1d80c1;
+}
